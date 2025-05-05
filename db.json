@@ -1,0 +1,58 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "quantity": 10,
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "quantity": 7,
+      "price": 8
+    },
+    {
+      "id": 3,
+      "name": "Kiwi",
+      "quantity": 23,
+      "price": 6
+    },
+    {
+      "id": 4,
+      "name": "Pommergate",
+      "quantity": 100,
+      "price": 20
+    },
+    {
+      "id": 5,
+      "name": "Guava",
+      "quantity": 100,
+      "price": 20
+    },
+    {
+      "id": 6,
+      "name": "Banana",
+      "quantity": 10,
+      "price": 6
+    },
+    {
+      "id": 7,
+      "name": "Watermelon",
+      "quantity": 10,
+      "price": 20
+    },
+    {
+      "id": 8,
+      "name": "Grapes",
+      "quantity": 10,
+      "price": 20
+    },
+    {
+      "id": 9,
+      "name": "Mango",
+      "quantity": 2,
+      "price": 45
+    }
+  ]
+}
